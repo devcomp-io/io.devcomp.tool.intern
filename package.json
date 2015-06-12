@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"intern": "~2.2.2"
+	}
+}
